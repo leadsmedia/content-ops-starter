@@ -168,7 +168,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: we associate with dubai companies
+  - subtitle: some of the businesses from my lientc
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
