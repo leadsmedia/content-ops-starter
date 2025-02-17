@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: dubai's homegrown search engine marketer
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Since 2015
     text: >
