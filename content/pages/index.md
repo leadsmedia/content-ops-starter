@@ -23,7 +23,7 @@ sections:
         elementId: ''
         type: Button
       - label: Connect Him
-        altText: ''
+        altText: Contact Safath Al Salam
         url: 'https://wa.me/+971521887960'
         showIcon: true
         icon: arrowRight
