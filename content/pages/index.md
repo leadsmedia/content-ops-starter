@@ -24,7 +24,7 @@ sections:
         type: Button
       - label: Connect Him
         altText: ''
-        url: /
+        url: 'https://wa.me/+971521887960'
         showIcon: true
         icon: arrowRight
         iconPosition: right
