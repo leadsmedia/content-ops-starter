@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: LeadsMedia
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: </strong>
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
