@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: dubai's homegrownsearch engine marketer
+      text: dubai's homegrown search engine marketer
       color: text-primary
       type: TitleBlock
     subtitle: Since 2015
