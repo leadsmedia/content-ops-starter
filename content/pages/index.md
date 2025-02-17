@@ -745,7 +745,9 @@ sections:
     type: GenericSection
 seo:
   metaTitle: LeadsMedia
-  metaDescription: </strong>
+  metaDescription: >-
+    LeasdMedia is Dubai’s Homegrown Search Engine Marketer Since 2015, Led by
+    Safath Al Salam.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
