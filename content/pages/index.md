@@ -347,6 +347,9 @@ sections:
         Dubai-3.webp
       altText: Fun feature preview
       type: ImageBlock
+      styles:
+        self:
+          borderRadius: x-large
     badge:
       label: eCommerce
       color: text-primary
