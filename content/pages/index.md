@@ -320,7 +320,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: eCommerce Website Development
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
