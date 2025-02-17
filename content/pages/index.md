@@ -351,7 +351,7 @@ sections:
         self:
           borderRadius: x-large
     badge:
-      label: 'Are you plannign to launch an '
+      label: Are you planning to start small?
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
