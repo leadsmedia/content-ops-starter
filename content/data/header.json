@@ -5,7 +5,10 @@
         "styles": {
             "self": {
                 "margin": [
-                    "mr-3"
+                    "mr-8",
+                    "mt-8",
+                    "ml-8",
+                    "mb-8"
                 ],
                 "borderWidth": 2,
                 "padding": [
