@@ -321,7 +321,7 @@ sections:
         textAlign: left
   - title:
       text: eCommerce Website Development
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Increase your reach
     text: >
