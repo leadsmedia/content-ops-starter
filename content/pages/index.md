@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Connect Him
+      - label: Connect Him in WhatsApp
         altText: Contact Safath Al Salam
         url: 'https://wa.me/+971521887960'
         showIcon: true
