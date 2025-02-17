@@ -168,7 +168,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: we associate with dubai companies
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
