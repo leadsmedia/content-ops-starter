@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Since 2015
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      LeadsMedia is powered by Safath Al Salam, a Dubai-based Indian
+      entrepreneur and homegrown search engine marketing analyst, formerly a
+      communication designer specializing in SMEs since 2015.
     actions:
       - label: Get started
         altText: ''
