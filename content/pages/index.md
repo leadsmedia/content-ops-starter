@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Connect Safath
+      - label: Connect Him
         altText: ''
         url: /
         showIcon: true
