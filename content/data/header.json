@@ -9,7 +9,10 @@
                 ],
                 "borderWidth": 2,
                 "padding": [
-                    "pt-0"
+                    "pt-9",
+                    "pl-9",
+                    "pb-9",
+                    "pr-9"
                 ],
                 "borderStyle": "none"
             }
