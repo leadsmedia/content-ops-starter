@@ -748,7 +748,7 @@ seo:
   metaDescription: >-
     LeasdMedia is Dubai’s Homegrown Search Engine Marketer Since 2015, Led by
     Safath Al Salam.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Leadsmedia Text Logo Brand Identity Design-04.webp
   type: Seo
 type: PageLayout
 ---
