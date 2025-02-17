@@ -351,7 +351,7 @@ sections:
       label: eCommerce
       color: text-primary
       type: Badge
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
