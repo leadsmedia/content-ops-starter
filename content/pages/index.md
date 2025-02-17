@@ -351,7 +351,7 @@ sections:
         self:
           borderRadius: x-large
     badge:
-      label: eCommerce
+      label: 'Are you plannign to launch an '
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
