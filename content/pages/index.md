@@ -149,7 +149,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: What We Do
+      label: A Few Words About us
       color: text-light
       styles:
         self:
