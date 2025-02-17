@@ -13,7 +13,7 @@ sections:
       entrepreneur and homegrown search engine marketing analyst, formerly a
       communication designer specializing in SMEs since 2015.
     actions:
-      - label: Get started
+      - label: Learn More
         altText: ''
         url: /
         showIcon: false
