@@ -168,7 +168,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: some of the businesses from my lientc
+  - subtitle: the top businesses i associated
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
