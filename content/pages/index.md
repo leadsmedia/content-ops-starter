@@ -342,7 +342,9 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: >-
+        /images/66e88cca40b21922867163a1_Business Bank and Leadsmedia
+        Dubai-3.webp
       altText: Fun feature preview
       type: ImageBlock
     badge:
